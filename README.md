@@ -1,1 +1,1 @@
-# Beginner-Coding-Quiz
+# Beginner Coding Quiz
