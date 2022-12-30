@@ -8,7 +8,7 @@ Many thanks to my instructor and UC Berkeley for providing project parameters an
 
 ## Deployed Page
 ![Deployment Image](images/codequiz1.png)
-### Reactive page
+### Reactive page (Resize browser window)
 ![Deployment Image](images/codequiz2.png)
 
 [Deployed GitPage](https://damek-h.github.io/Beginner-Coding-Quiz/)
